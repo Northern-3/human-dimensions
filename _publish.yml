@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 7237617a-d1b0-4391-a634-f24deaa6f5b1
+      url: 'https://quartopub.com/sites/adamshand/testing'
