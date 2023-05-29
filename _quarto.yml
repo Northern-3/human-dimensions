@@ -1,9 +1,0 @@
-project: 
-  type: website
-  output-dir: docs
-  
-website: 
-  title: "Testing"
-  navbar: 
-    left:
-      - about.qmd
